@@ -1,0 +1,17 @@
+{
+  "name": "time-crypt",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Kynson Szetau (https://kynsonszetau.com/)",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": "A timelock implementation. \nInspired by: https://github.com/drand/tlock\n(Not secure nor user-friendly, of cause, just a PoC.)",
+  "type": "module"
+}
